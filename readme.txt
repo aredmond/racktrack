@@ -1,1 +1,1 @@
-This is a new readme for the gentoo branch.
+This is a the readme for the master branch.
